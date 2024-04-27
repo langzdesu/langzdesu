@@ -1,4 +1,4 @@
-<h2 align="left">HI! LANGZ IS HERE | HE / HIM | IM FROM INDONESIA</h2>
+<h2 align="center">HI! LANGZ IS HERE | HE / HIM | IM FROM INDONESIA</h2>
 
 ###
 

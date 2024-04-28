@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="100" src="https://i.pinimg.com/originals/20/58/21/2058212e2a36aa766efc3562862c5698.gif"  />
+<img align="right" height="90" src="https://i.pinimg.com/originals/20/58/21/2058212e2a36aa766efc3562862c5698.gif"  />
 
 ###
 
@@ -53,8 +53,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/langzdesu/langzdesu/output/snake.svg" alt="Snake animation" height="220" />
 

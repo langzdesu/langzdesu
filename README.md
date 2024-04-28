@@ -1,4 +1,6 @@
-<h2 align="center">HI! LANGZ IS HERE | HE / HIM | IM FROM INDONESIA</h2>
+<h2 align="center">HI! MY NAME IS GALANG KNOWN AS LANGZ | INDONESIA | HE / HIM</h2>
+
+<h5 align="center">Enthusiastic self-taught Developer exploring the wonders of JavaScript, PHP, and ReactJS, driven by a relentless desire to master the craft and create impactful projects.</h5>
 
 ###
 

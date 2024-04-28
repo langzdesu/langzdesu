@@ -63,5 +63,5 @@
 ###
 
 <div align="center">
-  <img height="100" src="https://66.media.tumblr.com/tumblr_m9wojoZH131rfjowdo1_500.gif"  />
+  <img height="100" src="https://user-images.githubusercontent.com/2543511/81287318-dc926d80-9062-11ea-9f5a-0585ee67fe86.gif"  />
 </div>

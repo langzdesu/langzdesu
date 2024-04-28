@@ -10,10 +10,6 @@
 
 ###
 
-<img align="right" height="90" src="https://i.pinimg.com/originals/20/58/21/2058212e2a36aa766efc3562862c5698.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="10" />
@@ -57,3 +53,5 @@
 <img src="https://raw.githubusercontent.com/langzdesu/langzdesu/output/snake.svg" alt="Snake animation" height="220" />
 
 ###
+
+<img align="right" height="90" src="https://i.pinimg.com/originals/20/58/21/2058212e2a36aa766efc3562862c5698.gif"  />

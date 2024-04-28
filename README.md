@@ -37,19 +37,15 @@
 <div align="left">
   <a href="https://youtube.com/@langzmv" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="youtube logo"  />
-    <img width="5" />
   </a>
   <a href="https://instagram.com/langz.ls" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  />
-    <img width="5" />
   </a>
   <a href="https://t.me/langzdesu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="telegram logo"  />
-    <img width="5" />
   </a>
   <a href="https://wa.me/6285282778008" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="whatsapp logo"  />
-    <img width="5" />
   </a>
   <a href="https://mail.google.com/mail/u/0/?tf=cm&fs=1&to=paxleyrui@ruistore.my.id" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />

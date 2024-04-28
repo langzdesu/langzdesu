@@ -48,15 +48,17 @@
   </a>
 </div>
 
+###
+
 <img src="https://raw.githubusercontent.com/langzdesu/langzdesu/output/snake.svg" alt="Snake animation" height="220" />
 
 ###
 
-<img align="right" height="90" src="https://i.pinimg.com/originals/20/58/21/2058212e2a36aa766efc3562862c5698.gif"  />
+<img align="right" height="130" src="https://i.pinimg.com/originals/20/58/21/2058212e2a36aa766efc3562862c5698.gif"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/8ej70i47i8majz8qhak85vozm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=8ej70i47i8majz8qhak85vozm&count=3&unique=false" alt="Spotify recently played"  />
   </a>

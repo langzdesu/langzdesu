@@ -54,9 +54,11 @@
 
 ###
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <a href="https://open.spotify.com/user/8ej70i47i8majz8qhak85vozm" style="flex: 1;">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=8ej70i47i8majz8qhak85vozm&count=3&unique=false" alt="Spotify recently played" style="max-width: 100%;" />
+<div style="text-align: center;">
+  <a href="https://open.spotify.com/user/8ej70i47i8majz8qhak85vozm" style="display: inline-block; margin-right: 10px;">
+    <img height="215" src="https://i.pinimg.com/originals/20/58/21/2058212e2a36aa766efc3562862c5698.gif"  />
   </a>
-  <img align="right" height="215" src="https://i.pinimg.com/originals/20/58/21/2058212e2a36aa766efc3562862c5698.gif" style="max-height: 215px; margin-left: 10px;" />
+  <a href="https://open.spotify.com/user/8ej70i47i8majz8qhak85vozm" style="display: inline-block;">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=8ej70i47i8majz8qhak85vozm&count=3&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>

@@ -62,7 +62,7 @@
 
 ###
 
-<h3 align="center">LISTENING TO LOFI AUDIO EVERYDAY - EVERYTIME - EVERYWHERE</h3>
+<h3 align="center" style="font-size: 30px;">LISTEN TO MUSIC ANYTIME ANYWHERE TO ALWAYS GET HAPPINESS</h3>
 
 <div align="center">
   <img height="300" src="https://user-images.githubusercontent.com/2543511/81287318-dc926d80-9062-11ea-9f5a-0585ee67fe86.gif"  />

@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="130" src="https://i.pinimg.com/originals/20/58/21/2058212e2a36aa766efc3562862c5698.gif"  />
+<img align="right" height="135" src="https://i.pinimg.com/originals/20/58/21/2058212e2a36aa766efc3562862c5698.gif"  />
 
 ###
 
@@ -36,19 +36,19 @@
 
 <div align="left">
   <a href="https://youtube.com/@langzmv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="youtube logo"  />
   </a>
   <a href="https://instagram.com/langz.ls" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo"  />
   </a>
   <a href="https://t.me/langzdesu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="telegram logo"  />
   </a>
   <a href="https://wa.me/6285282778008" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="whatsapp logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/0/?tf=cm&fs=1&to=paxleyrui@ruistore.my.id" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
   </a>
 </div>
 

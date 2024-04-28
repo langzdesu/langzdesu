@@ -54,8 +54,6 @@
 
 ###
 
-<h2 align="center">LISTENING TO LOFI AUDIO EVERYDAY - EVERYTIME - EVERYWHERE</h2>
-
 <div align="center">
   <a href="https://open.spotify.com/user/8ej70i47i8majz8qhak85vozm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=8ej70i47i8majz8qhak85vozm&count=5&unique=false" alt="Spotify recently played"  />
@@ -63,6 +61,8 @@
 </div>
 
 ###
+
+<h3 align="center">LISTENING TO LOFI AUDIO EVERYDAY - EVERYTIME - EVERYWHERE</h3>
 
 <div align="center">
   <img height="300" src="https://user-images.githubusercontent.com/2543511/81287318-dc926d80-9062-11ea-9f5a-0585ee67fe86.gif"  />

@@ -62,8 +62,12 @@
 
 ###
 
-<h1 align="center">LISTEN TO MUSIC ANYTIME ANYWHERE TO ALWAYS GET HAPPINESS</h1>
+<h3 align="center">―――――――――――――――――――――――――――――――――――――――――――――</h3>
+
+<h3 align="center">LISTEN TO MUSIC ANYTIME ANYWHERE TO ALWAYS GET HAPPINESS</h3>
 
 <div align="center">
   <img height="300" src="https://user-images.githubusercontent.com/2543511/81287318-dc926d80-9062-11ea-9f5a-0585ee67fe86.gif"  />
 </div>
+
+<h3 align="center">―――――――――――――――――――――――――――――――――――――――――――――</h3>

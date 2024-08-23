@@ -1,4 +1,4 @@
-<h2 align="center">HI! MY NAME IS GALANG KNOWN AS LANGZ | INDONESIA | HE / HIM</h2>
+<h2 align="center">HI! MY NAME IS GALANG KNOWN AS LANGZ | IM FROM INDONESIA - 🇮🇩</h2>
 
 <h5 align="center">Enthusiastic self-taught Developer exploring the wonders of JavaScript, PHP, and ReactJS, driven by a relentless desire to master the craft and create impactful projects.</h5>
 
@@ -66,7 +66,7 @@
 
 <h3 align="center">―――――――――――――――――――――――――――――――――――――――――――――</h3>
 
-<h3 align="center">LISTEN TO MUSIC ANYTIME ANYWHERE TO ALWAYS GET HAPPINESS</h3>
+<h3 align="center">LISTEN TO MUSIC ANYTIME AND ANYWHERE TO STAY IN A GOOD MOOD</h3>
 
 <div align="center">
   <img height="250" src="https://user-images.githubusercontent.com/2543511/81287318-dc926d80-9062-11ea-9f5a-0585ee67fe86.gif"  />
